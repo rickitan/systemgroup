@@ -1,0 +1,1 @@
+This is the /Applications/MAMP/htdocs/ShareSnippets/application/views/snippet/index.blade.php view
